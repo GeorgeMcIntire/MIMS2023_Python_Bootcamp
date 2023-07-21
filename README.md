@@ -47,3 +47,4 @@ Each day will follow this typical
 | 11:30 - 12:00 pm | Review Exercises |
 | 12:00 - 1:00 pm | Office Hours |
 
+  
