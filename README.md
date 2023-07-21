@@ -9,7 +9,6 @@ George McIntire'22 - george_mcintire@berkeley.edu
 
 **Hours**: 
 Lessons held Monday-Thursday between 9am-12pm PST. Office hours held right after lessons between 12pm - 1pm PST.
-[OH Zoom link](https://berkeley.zoom.us/j/9039127274)
 
 **Outcomes**
 Understand and implement introductory and intermediate concepts in Python programming (e.g., for loops, conditionals, functions, etc.) 
